@@ -111,7 +111,7 @@ async def next_page(bot, query):
     )
     btn.insert(1, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+hPquUHH5G3ljNjRh'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+0sykT_GM6hkzMmI1'),
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Sanjanasri3')
         ]
     )
@@ -443,7 +443,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/+qXETDxICDIQzMmRh'),
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qXETDxICDIQzMmRh')
             ],[
-            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/+hPquUHH5G3ljNjRh'),
+            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/+0sykT_GM6hkzMmI1'),
             InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
