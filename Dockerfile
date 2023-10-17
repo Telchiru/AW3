@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /Telcollection
+WORKDIR /Telchiru
 
 COPY requirements.txt ./
 
